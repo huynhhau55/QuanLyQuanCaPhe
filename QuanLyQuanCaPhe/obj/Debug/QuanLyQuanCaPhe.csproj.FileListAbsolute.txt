@@ -1,0 +1,12 @@
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csprojAssemblyReference.cache
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fLogin.resources
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fTableManager.resources
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
+C:\Users\huynh\OneDrive\Desktop\QL_CF\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources
